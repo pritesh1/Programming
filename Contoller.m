@@ -1,4 +1,4 @@
-% HW 6 Problem 5 Abhishek Rao
+% Homework 6
 clc;clear;
 
 % Global constants
