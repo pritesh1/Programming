@@ -89,13 +89,3 @@ Alya1 =  A';
 T1=(lyap(Alya1,Blya1,-Clya1))';
 l= inv(T1) * lbar;
 % the Answer
-
-
-
-
-
-
-
-
-
-
